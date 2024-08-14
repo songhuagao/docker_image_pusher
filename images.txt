@@ -1,2 +1,12 @@
-ossrs/srs:5
-ossrs/srs:6
+node:14.15-alpine3.13
+node:15.9-alpine3.13
+node:11
+node:12
+node:13
+node:14
+node:15
+node:16
+node:17
+node:18
+node:19
+node:20
