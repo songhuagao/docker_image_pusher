@@ -1,1 +1,1 @@
-node:21.1.0-alpine
+node:14.18.2
