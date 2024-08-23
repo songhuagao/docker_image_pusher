@@ -1,3 +1,1 @@
-timescale/timescaledb:pg14
-timescale/timescaledb:pg15
-timescale/timescaledb:pg16
+timescale/timescaledb-ha:pg14-ts2.16-all
