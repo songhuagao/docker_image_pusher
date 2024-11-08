@@ -1,2 +1,1 @@
- timescale/timescaledb-ha:pg15-ts2.16-all
- timescale/timescaledb-ha:pg16-ts2.16-all
+docker.io/library/tomcat:8.5.57-jdk8
