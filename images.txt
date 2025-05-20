@@ -1,2 +1,9 @@
-python:3.11-slim
-python:3.10-slim
+python:3.9-slim
+python:3.8-slim
+python:3.13-slim
+python:3.8-bookworm
+python:3.9-bookworm
+python:3.10-bookworm
+python:3.11-bookworm
+python:3.12-bookworm
+python:3.13-bookworm
