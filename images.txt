@@ -1,2 +1,1 @@
-enmotech/opengauss:5.1.0
-enmotech/opengauss:6.0.0
+node:10.16.3-alpine
